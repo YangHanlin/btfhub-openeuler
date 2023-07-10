@@ -1,3 +1,10 @@
+This repository is archived. For BTFHub working in the openEuler ecosystem, refer to <https://gitee.com/openeuler/btfhub> and <https://gitee.com/HanlinYang/btfhub>.
+
+---
+
+<details>
+<summary>Original README</summary>
+
 While [BTFhub main repository](https://github.com/aquasecurity/btfhub/) contains documentation, tooling and examples on how to use the BTF files, the BTF files exist in the [BTFhub-Archive repository](https://github.com/aquasecurity/btfhub-archive/).
 
 ## What is BTF ?
@@ -81,3 +88,4 @@ current status on **eBPF** and **BTF** support.
 - [How to use Pahole to generate BTF information](https://github.com/aquasecurity/btfhub/blob/main/docs/how-to-use-pahole.md)
 - [BTF Generator Internals](https://github.com/aquasecurity/btfhub/blob/main/docs/btfgen-internals.md)
 - more references to come...
+</details>
